@@ -1,0 +1,25 @@
+{
+  "websites": [
+    {
+      "title": "Simulateur d'evolution",
+      "description": "Simulateur d'évolution selon la théorie de Darwin",
+      "url": "https://smartineau.me/file-server/"
+    },
+    {
+      "title": "Game of Life",
+      "description": "Une réplique électronique du Jeu de la vie de Conway!",
+      "url": "https://smartineau.me/game-of-life/"
+    },
+    {
+      "title": "MémoMath",
+      "description": "Site web du projet d'exposcience MémoMath",
+      "url": "https://smartineau.me/memomath"
+    },
+    {
+      "title": "Love Tester",
+      "description": "Un site web pour savoir si deux personnes sont compatibles amoureusement!",
+      "url": "https://smartineau.me/love-tester",
+      "collab": "Simona Elena Lungoci"
+    }
+  ]
+}
