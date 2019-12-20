@@ -10,6 +10,11 @@
       "description": "Un site web pour savoir si deux personnes sont compatibles amoureusement",
       "url": "https://smartineau.me/love-tester",
       "collab": "Simona Elena Lungoci"
+    },
+    {
+      "title": "Create-Custom-Command",
+      "description": "Un CLI pour créer vos propres commandes",
+      "url": "https://github.com/Samuel-Martineau/Create-Custom-Command"
     }
   ]
 }
