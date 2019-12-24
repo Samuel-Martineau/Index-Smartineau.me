@@ -15,6 +15,11 @@
       "title": "Create-Custom-Command",
       "description": "Un CLI pour créer vos propres commandes",
       "url": "https://github.com/Samuel-Martineau/Create-Custom-Command"
+    },
+    {
+      "title": "Degit-Templates",
+      "description": "An extension that allows you to use Degit directly from Visual Studio Code",
+      "url": "https://marketplace.visualstudio.com/items?itemName=samumartineau.degit-templates"
     }
   ]
 }
