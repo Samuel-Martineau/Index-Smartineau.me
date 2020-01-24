@@ -20,6 +20,11 @@
       "title": "Degit-Templates-VSCode",
       "description": "An extension that allows you to use Degit directly from Visual Studio Code",
       "url": "https://marketplace.visualstudio.com/items?itemName=samumartineau.degit-templates"
+    },
+    {
+      "title": "Generator-Svelte",
+      "description": "Yeoman generator that scaffolds Svelte.js apps",
+      "url": "https://github.com/Samuel-Martineau/generator-svelte"
     }
   ]
 }
